@@ -7,11 +7,19 @@
 
 <p align="left"> <a href="https://twitter.com/oluwa_seguun" target="blank"><img src="https://img.shields.io/twitter/follow/oluwa_seguun?logo=twitter&style=for-the-badge" alt="oluwa_seguun" /></a> </p>
 
-- 🌱 I’m currently learning **AWS and tools, HTML, CSS & JavaScript**
+- Certified DevOps Engineer with a strong passion for cloud infrastructure, automation, and building scalable systems. Recently completed both DevOps Beginner to Advanced and Real-Time DevOps & GitOps Projects courses, where I worked hands-on with CI/CD pipelines, containerization, infrastructure as code, and monitoring solutions
+- 💬 Ask me about **AWS, Kubernetes, Terraform, Jenkins, Ingress, Ansible, Cloud Formation, JavaScript, HTML & CSS, React**
+- I’ve built real-time projects using:
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sheguun/Assignment](https://github.com/Sheguun/Assignment)
+CI/CD Tools: Jenkins, GitHub Actions
 
-- 💬 Ask me about **Kubernetes, Terraform, Jenkins, Ingress, Ansible, Cloud Formation, JavaScript, HTML & CSS, React**
+Containerization & Orchestration: Docker, Kubernetes, Helm
+
+Infra as Code: Terraform, Ansible
+
+Cloud Platforms: AWS
+
+Monitoring/Logging: Prometheus, Grafana, ELK Stack
 
 - 📫 How to reach me **Oluwasegunmichael8@gmail.com**
 
